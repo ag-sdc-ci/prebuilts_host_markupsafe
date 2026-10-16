@@ -1,0 +1,5 @@
+shadow prebuilt repo: markupsafe (host)
+  arch package: python-markupsafe v3.0.4-1, Arch Linux extra repo
+  api-level: universal (Python library host)
+  layout: python-markupsafe-*.pkg.tar.zst at root; extracted markupsafe/ python module; Android.bp providing py-markupsafe
+  date: 2026-10-16
